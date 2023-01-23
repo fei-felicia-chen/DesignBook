@@ -1,0 +1,281 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwelveDays",
+            "request": "launch",
+            "mainClass": "designbook/chapter1.TwelveDays",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwelveDays2",
+            "request": "launch",
+            "mainClass": "designbook/chapter1.TwelveDays2",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwelveDaysIterative",
+            "request": "launch",
+            "mainClass": "designbook/chapter1.TwelveDaysIterative",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Card2",
+            "request": "launch",
+            "mainClass": "designbook/chapter2.Card2",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumeratedCard",
+            "request": "launch",
+            "mainClass": "designbook/chapter2.EnumeratedCard",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hand",
+            "request": "launch",
+            "mainClass": "designbook/chapter3.Hand",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniversalComparator",
+            "request": "launch",
+            "mainClass": "designbook/chapter3.UniversalComparator",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Card4",
+            "request": "launch",
+            "mainClass": "designbook/chapter4.Card4",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Card5",
+            "request": "launch",
+            "mainClass": "designbook/chapter4.Card5",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client",
+            "request": "launch",
+            "mainClass": "designbook/chapter4.Client",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch MetaprogrammingSamples",
+            "request": "launch",
+            "mainClass": "designbook/chapter5.MetaprogrammingSamples",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberLoader",
+            "request": "launch",
+            "mainClass": "designbook/chapter5.NumberLoader",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTester",
+            "request": "launch",
+            "mainClass": "designbook/chapter5.StringTester",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardImages",
+            "request": "launch",
+            "mainClass": "designbook/chapter6.CardImages",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client(1)",
+            "request": "launch",
+            "mainClass": "designbook/chapter6.Client",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch HandDealer",
+            "request": "launch",
+            "mainClass": "designbook/chapter6.HandDealer",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program2",
+            "request": "launch",
+            "mainClass": "designbook/chapter6.Program2",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client(2)",
+            "request": "launch",
+            "mainClass": "designbook/chapter7.Client",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemorizingDeck",
+            "request": "launch",
+            "mainClass": "designbook/chapter7.MemorizingDeck",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "designbook/chapter8.Driver",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inventory",
+            "request": "launch",
+            "mainClass": "designbook/chapter8.Inventory",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch LuckyNumber",
+            "request": "launch",
+            "mainClass": "designbook/chapter8.LuckyNumber",
+            "projectName": "DesignBook",
+            "vmArgs": "--module-path 'C:/Users/feche/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib' --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintVisitor",
+            "request": "launch",
+            "mainClass": "designbook/chapter8.PrintVisitor",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInterface",
+            "request": "launch",
+            "mainClass": "designbook/chapter8.UserInterface",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardViewer",
+            "request": "launch",
+            "mainClass": "designbook/chapter9.CardViewer",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch CommandClient",
+            "request": "launch",
+            "mainClass": "designbook/chapter9.CommandClient",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Samples",
+            "request": "launch",
+            "mainClass": "designbook/chapter9.Samples",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrategyClient",
+            "request": "launch",
+            "mainClass": "designbook/chapter9.StrategyClient",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwelveDays(1)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter1.TwelveDays",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client(3)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter4.Client",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch MetaprogrammingSamples(1)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter5.MetaprogrammingSamples",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver(1)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter8.Driver",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericVisitorSample",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter8.GenericVisitorSample",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch LuckyNumber(1)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter8.LuckyNumber",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintVisitor(1)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter8.PrintVisitor",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsumingDecorator",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter9.ConsumingDecorator",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfiniteCardSource",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter9.InfiniteCardSource",
+            "projectName": "DesignBook"
+        },
+        {
+            "type": "java",
+            "name": "Launch Samples(1)",
+            "request": "launch",
+            "mainClass": "designbook/e2.chapter9.Samples",
+            "projectName": "DesignBook"
+        }
+    ]
+}
